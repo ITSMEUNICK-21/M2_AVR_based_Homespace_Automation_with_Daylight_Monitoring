@@ -1,4 +1,4 @@
-name: Build CI - Linux
+name: Compile-Linux
 
 on:
   push:
