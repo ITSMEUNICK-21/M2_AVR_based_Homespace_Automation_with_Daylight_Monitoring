@@ -10,12 +10,13 @@
 ## Folder Structure
 |Folder|Description|
 |:--:|:--:|
-|`1_Requirements`| Decribe about the requirements and research|
-|`2_Architecture`| Detailed diagrams of project|
+|`0_Abstract`| Includes abstract of the project|
+|`1_Requirements`| Describe about the requirements and research|
+|`2_Design`| Detailed diagrams of project|
 |`3_Implementation`| Contains the source code of the project|
-|`4_TestplanandOutput`| Contains the test plan|
+|`4_TestCases`| Contains the test plan|
 |`5_Report`| Complete project report|
-|`6_ImagesAndPhotos`| Supporting images and photos|
+|`6_Output`| Supporting images and photos|
 
 ## Author
 
