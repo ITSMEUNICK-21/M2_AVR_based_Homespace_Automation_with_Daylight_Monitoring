@@ -4,9 +4,9 @@
  * @author Hegde Nikhil Suresh
  * @brief Configuration file to define pins and ports for the interfaced peripherals
  * @version 0.1
- * @date 2021-04-23
+ * @date 2022-04-20
  * 
- * @copyright Copyright (c) 2021
+ * @copyright Copyright (c) 2022
  * 
  */
 

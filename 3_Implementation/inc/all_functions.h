@@ -1,3 +1,14 @@
+/**
+ * @file all_functions.h
+ * @author Hegde Nikhil Suresh
+ * @brief Header Files for required configuration and for all defined functions
+ * @version 0.1
+ * @date 2022-04-20
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #include "project_config.h"
 
 #include <avr/io.h>

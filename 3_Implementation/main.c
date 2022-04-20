@@ -1,3 +1,14 @@
+/**
+ * @file main.c
+ * @author Hegde Nikhil Suresh
+ * @brief Project Title : AVR based Homspace Automation with Daylight Monitoring
+ * @version 0.1
+ * @date 2022-04-20
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #include "all_functions.h"
 
 int main(void)
