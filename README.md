@@ -3,9 +3,9 @@
 
 ## Badges
  
-|Build|cppcheck|Valgrind|Codacy|Quality Score|Unit Test|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-[![Build CI - Linux](https://github.com/ITSMEUNICK-21/M2_AVR_based_Homespace_Automation_with_Daylight_Monitoring/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/ITSMEUNICK-21/M2_AVR_based_Homespace_Automation_with_Daylight_Monitoring/actions/workflows/c-cpp.yml)|[![Cppcheck](https://github.com/ITSMEUNICK-21/M2_AVR_based_Homespace_Automation_with_Daylight_Monitoring/actions/workflows/CodeQuality.yml/badge.svg?branch=main)](https://github.com/ITSMEUNICK-21/M2_AVR_based_Homespace_Automation_with_Daylight_Monitoring/actions/workflows/CodeQuality.yml)|[![Valgrind](https://github.com/ITSMEUNICK-21/M1_Income_and_Tax_Calculator/actions/workflows/valgrind.yml/badge.svg?branch=main)](https://github.com/ITSMEUNICK-21/M1_Income_and_Tax_Calculator/actions/workflows/valgrind.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b57ab38bab1b45b4a5576680f0a0b803)](https://www.codacy.com/gh/ITSMEUNICK-21/M1_Income_and_Tax_Calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ITSMEUNICK-21/M1_Income_and_Tax_Calculator&amp;utm_campaign=Badge_Grade)|![Quality](https://api.codiga.io/project/32105/score/svg)|[![Unit Testing - Unity](https://github.com/ITSMEUNICK-21/M1_Income_and_Tax_Calculator/actions/workflows/Unit.yml/badge.svg?branch=main)](https://github.com/ITSMEUNICK-21/M1_Income_and_Tax_Calculator/actions/workflows/Unit.yml)
+|Build|cppcheck|Codacy|
+|:--:|:--:|:--:|
+[![Build CI - Linux](https://github.com/ITSMEUNICK-21/M2_AVR_based_Homespace_Automation_with_Daylight_Monitoring/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/ITSMEUNICK-21/M2_AVR_based_Homespace_Automation_with_Daylight_Monitoring/actions/workflows/c-cpp.yml)|[![Cppcheck](https://github.com/ITSMEUNICK-21/M2_AVR_based_Homespace_Automation_with_Daylight_Monitoring/actions/workflows/CodeQuality.yml/badge.svg?branch=main)](https://github.com/ITSMEUNICK-21/M2_AVR_based_Homespace_Automation_with_Daylight_Monitoring/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b57ab38bab1b45b4a5576680f0a0b803)](https://www.codacy.com/gh/ITSMEUNICK-21/M1_Income_and_Tax_Calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ITSMEUNICK-21/M1_Income_and_Tax_Calculator&amp;utm_campaign=Badge_Grade)
 
 ## Folder Structure
 |Folder|Description|
