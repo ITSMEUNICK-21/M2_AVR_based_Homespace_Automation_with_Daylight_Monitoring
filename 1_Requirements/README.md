@@ -2,7 +2,7 @@
 * Income Tax Calculator is reliable and easy-to-use calculator to estimate your Tax payable on taxable income. Income tax is computed as the product of a tax rate times the taxable income in accordance to guidelines laid out by Income Tax Department.
 
 # Requirements
-* Visual Studio Code, gcc compiler, Linux OS, Windows OS
+* Visual Studio Code, AVR compiler, SimulIDE, Make Installer, Doxygen, Linux OS, Windows OS
 # Features
 * You can get the tax payable based on your taxable income.
 * You can select age-based distinction and pay your tax payable accordingly.
