@@ -11,23 +11,18 @@
 # Highlevel Requirements
 |HLR_ID|Description|Status|
 |:--:|:--:|:--:|
-|HLR_1|This project helps to get tax payable on your taxable income|Implemented|
-|HLR_2|This project allows to select age based distinction on tax payable|Implemented|
-|HLR_3|This project allows to compare tax payable under Old Regime and New Regime of Income Tax|Implemented|
-|HLR_4|This project allows to include Allowances|Future|
-|HLR_5|This project allows to include Deductions|Future|
+|HLR_1|This project ensures detection of person or group of people in pre-defined homespace area|Implemented|
+|HLR_2|This project facilitates Daylight Monitoring|Implemented|
+|HLR_3|This project ensures turning on the bulb if there isn't enough daylight and detection is ascertained|Implemented|
+|HLR_4|This project aims to cover most of the home appliances|Future|
 
     
 # Lowlevel Requirements
 |HLR_ID|LLR_ID|Description|Status|
 |:--:|:--:|:--:|:--:|
-|HLR_1|LLR_01|Selects tax rates applicable according to the range of taxable income|Implemented|
-|HLR_2|LLR_01|Tax payable for people with age less than 60|Implemented|
-||LLR_02|Tax payable for people with age more than 60 but less than 80|Implemented|
-||LLR_03|Tax payable for people with age more than 80|Implemented|
-|HLR_3|LLR_01|Tax payable under Old Regime|Implemented|
-||LLR_02|Tax payable under New Regime|Implemented|
-
+|HLR_1|LLR_01|The detection is performed using ULtrasonic sensor|Implemented|
+|HLR_2|LLR_01|The Daylight Monitoring is facilitated by LDR sensor|Implemented|
+|HLR_3|LLR_01|Control signal is given to relay which facilitates turning on/off the bulb|Implemented|
 
 
 # SWOT Analysis
