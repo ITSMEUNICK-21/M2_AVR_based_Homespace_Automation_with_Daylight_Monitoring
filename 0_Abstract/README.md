@@ -1,1 +1,12 @@
+# Abstract
 
+In our progress towards the smart and connected world, automation is undoubtedly a medium that will help us in achieving these lofty goals. Automation systems have become widespread in industries, thus automating most of the process-related operations. In present times the scope of automationhas leapt from its restricted industrial environments to automation in homes and alternative business sectors.
+
+Home automation systems are advancing towards automating the mechanization processes in home environments, thus facilitating lesser efforts for humans to complete his day-to-day functionalities. It involves automatic controlling of home appliances using state-of-the-art technologies which include embedded systems devices acting as controllers over desktops, laptops, etc. As it's a well-known fact that to automate the entire home environment, a lot of changes in the present working dynamics is needed, which becomes nearly impossible due to cost constraints and the limitations involved in the physical dimensions. Hence there is a focus towards automating individual home spaces and performing a final integrationto meet the requirements.
+
+This project is based on the same grounds and the project title is 'AVR based Homespace Automation with Daylight Monitoring'. The objective of this project is to develop an energy-efficient system that automates the turning on or off lights in a home space by 
+detecting the human presence and daylight monitoring is added as a responsible feature in the system.
+
+The detection of the human presence is performed with the help of an Ultrasonic sensor and daylight monitoring is done using LDR sensor. The microcontroller used is Atmega328p. If a person is within the range as defined, the ultrasonic sensor will assert for it through the microcontroller and the microcontroller will signal the relay to turn on the lights. But when there is enough daylight, turning on the lights is an absolute waste of electrical energy. To address this issue, daylight monitoring feature is included. It will ensure that even if the ultrasonic sensor detects the presence of the person in the home space, the lights will only be turned on if there isn't enough daylight.
+
+Incorporating and upscaling this project in real-time scenarios will help in reducing energy consumption, automation of individual home space and thus improving the standard of living.
