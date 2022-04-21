@@ -1,5 +1,5 @@
 # AVR based Homspace Automation with Daylight Monitoring
-* The objective of this project is to develop an energy-efficient system that automates the turning on or off lights in a home space by detecting the human presence and daylight monitoring is added as a responsible feature in the system. The detection of the human presence is performed with the help of an Ultrasonic sensor and daylight monitoring is done using LDR sensor. The microcontroller used is Atmega328p.
+* The objective of this project is to develop an energy-efficient system that automates the turning on or off lights in a home space by detecting the human presence and daylight monitoring is added as a responsible feature in the system. The detection of the human presence is performed with the help of an Ultrasonic sensor and daylight monitoring is done using a LDR sensor. The microcontroller used is Atmega328p.
 
 ## Badges
  
