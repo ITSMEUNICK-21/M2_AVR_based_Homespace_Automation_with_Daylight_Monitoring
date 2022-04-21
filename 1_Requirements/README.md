@@ -1,5 +1,5 @@
 # Description
-* Income Tax Calculator is reliable and easy-to-use calculator to estimate your Tax payable on taxable income. Income tax is computed as the product of a tax rate times the taxable income in accordance to guidelines laid out by Income Tax Department.
+* Homspace Automation with Daylight Monitoring is an energy-efficient system that automates the turning on or off lights in a home space by detecting the human presence and daylight monitoring is added as a responsible feature in the system. 
 
 # Requirements
 * Visual Studio Code, AVR compiler, SimulIDE, Make Installer, Doxygen, Linux OS, Windows OS
