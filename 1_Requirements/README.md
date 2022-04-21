@@ -26,7 +26,7 @@
 
 
 # SWOT Analysis
-![](https://github.com/ITSMEUNICK-21/M1_Income_and_Tax_Calculator/blob/main/6_ImagesAndVideos/SWOT%20Analysis.png)
+![](https://github.com/ITSMEUNICK-21/M2_AVR_based_Homespace_Automation_with_Daylight_Monitoring/blob/main/6_Output/Others/SWOT_Analysis_M2.jpg)
 
 # 4W's & 1H
 * **What**  : Home Space Automation with Daylight Monitoring using the microcontroller Atmega328p.
