@@ -33,13 +33,13 @@ void timerreg_init(void);
 /**
 * @brief Reads the analog signal from the selected channel and returns the digital equivalent value.
 * @param[in] ch
-* @return Digital equivalent of the analog signal
+* @return Digital equivalent of the analog signal.
 */
 uint16_t ReadADC(uint8_t ch);
 
 /**
 * @brief Detects the presence of an object and calculates the distance.
-* Formula : (For 16 MHz clock), Distance = ((double)count/233.25) 
+* Formula : (For 16 MHz clock), Distance = ((count/233.25) 
 * @return Distance value in centimeters(cm).
 */
 unsigned int read_ultrasonic();
