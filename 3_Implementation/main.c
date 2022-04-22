@@ -13,14 +13,14 @@
 
 int main(void)
 {
-    InitADC();
     peripheral_init();
+    InitADC();
     timerreg_init();
 
     sei();
 
     long int range = 0;
-    uint16_t lux;	
+    uint16_t lux = 0;	
 
     while(1)
     {
