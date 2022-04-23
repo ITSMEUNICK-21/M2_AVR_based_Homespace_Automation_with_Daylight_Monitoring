@@ -17,6 +17,6 @@
 
 #define F_CPU 16000000UL 	/**< Clock Frequency of MCU is 16 MHz */
 
-#define TRIG_PIN  PD0        
-#define RELAY_PIN PD4
+#define TRIG_PIN  PD0       /* Trigger pin of Ultrasonic Sensor connected to PORTD0 */
+#define RELAY_PIN PD4       /* Control signal is sent to realy module through PORTD4 */
 

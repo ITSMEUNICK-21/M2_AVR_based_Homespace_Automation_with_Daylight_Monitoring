@@ -13,11 +13,11 @@
 
 int main(void)
 {
-    peripheral_init();
-    InitADC();
-    timerreg_init();
+    peripheral_init();                            /* Peripheral Initialization */
+    InitADC();                                    /* ADC Initialization */
+    timerreg_init();                              /* Timer register Initialization */
 
-    sei();
+    sei();                                        /* Enable global interrupts */
 
     long int range = 0;
     uint16_t lux = 0;	
@@ -28,23 +28,25 @@ int main(void)
         lux = ReadADC(0);
         _delay_ms(200);
 
-        range = read_ultrasonic();
-
-        if(range < 150 )
+        range = read_ultrasonic();                /* store distance value read from ultrasonic sensor */
+        
+        /* The range for this prototype example is set at 150 cm and 
+        the minimum home daylight intensity is  set at 150 lux */
+        if(range < 150 )                         
         {
-            if(lux > 642)
+            if(lux > 642)                           /* 642 is the decimal equivalent of 150 lux */
             {
-                PORTD |= (1 << RELAY_PIN);
+                PORTD |= (1 << RELAY_PIN);          /* To turn on Bulb */
             }
             else
-            {
-                PORTD &= ~(1 << RELAY_PIN);
+            { 
+                PORTD &= ~(1 << RELAY_PIN);         /* To turn off Bulb */
             }
             
         }
         else
         {
-            PORTD &= ~(1 << RELAY_PIN);
+            PORTD &= ~(1 << RELAY_PIN);             /* To turn off Bulb */
         }
     }
 
