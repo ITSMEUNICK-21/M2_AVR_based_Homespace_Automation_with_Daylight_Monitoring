@@ -55,5 +55,5 @@ unsigned int read_ultrasonic()
 /* Interrupt Service Routine for Timer1 Overflow */
 ISR(TIMER1_OVF_vect)
 {
-    TimerOverflow++;   /* Increment Timer Overflow Count
+    TimerOverflow++;   /* Increment Timer Overflow Count */
 }
