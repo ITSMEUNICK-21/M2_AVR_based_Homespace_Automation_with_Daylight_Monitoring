@@ -4,7 +4,7 @@
 Folder        | description
 --------------| ----------------------------------------------
 `inc`         | All header files
-`src`         | Main source code for calculator
+`src`         | Main source code files
 `Build`        | Includes .elf file
 `documentation` | All files for documentation
 `simulation` | Includes simulation file
