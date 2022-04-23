@@ -17,6 +17,6 @@
 
 #define F_CPU 16000000UL 	/**< Clock Frequency of MCU is 16 MHz */
 
-#define TRIG_PIN  PD0
+#define TRIG_PIN  PD0        
 #define RELAY_PIN PD4
 
