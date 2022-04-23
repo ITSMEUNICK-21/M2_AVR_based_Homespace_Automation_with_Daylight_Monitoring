@@ -37,6 +37,8 @@
 
 # References
 
-https://www.electronicwings.com/avr-atmega/atmega1632-timer-input-capture-mode
+* https://www.electronicwings.com/avr-atmega/atmega1632-timer-input-capture-mode
+* https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
+* https://components101.com/sites/default/files/component_datasheet/LDR%20Datasheet.pdf
 
 
